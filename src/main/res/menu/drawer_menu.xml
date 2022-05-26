@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_product"
+        android:menuCategory="secondary"
+        android:title="Shopping" />
+    <item
+        android:id="@+id/servicesFragment"
+        android:icon="@drawable/ic_services"
+        android:menuCategory="secondary"
+        android:title="Ticket Booking" />
+    <item
+        android:id="@+id/settingFragment"
+        android:icon="@drawable/ic_setting"
+        android:menuCategory="secondary"
+        android:title="Setting" />
+    <item
+        android:id="@+id/secondaryMenu"
+        android:menuCategory="secondary"
+        android:title="More">
+        <menu>
+            <item
+                android:id="@+id/aboutAppFragment"
+                android:icon="@drawable/ic_info"
+                android:title="About App" />
+        </menu>
+    </item>
+</menu>

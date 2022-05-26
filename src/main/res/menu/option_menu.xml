@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/aboutAppFragment"
+            android:icon="@drawable/ic_info"
+            android:menuCategory="secondary"
+            app:showAsAction="always"
+            android:title="About App" />
+
+        <item
+            android:id="@+id/settingFragment"
+            android:icon="@drawable/ic_setting"
+            android:menuCategory="secondary"
+            android:title="Setting" />
+</menu>

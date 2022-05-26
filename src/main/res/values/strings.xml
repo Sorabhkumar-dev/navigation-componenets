@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Infinity Store</string>
+
+    <!-- bottom resource menu -->
+    <string name="user">User</string>
+    <string name="product">Products</string>
+    <string name="Cart">Cart</string>
+
+    <!-- drawer resource menu -->
+    <string name="all">All</string>
+    <string name="boys_clothes">Boy\'s Clothes</string>
+    <string name="girls_clothes">Girl\'s Clothes</string>
+    <string name="electronic">Electronic</string>
+    <string name="jewellery">Jewellery</string>
+
+    <!-- drawer open and close-->
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_fragment_btn_user">User</string>
+</resources>
